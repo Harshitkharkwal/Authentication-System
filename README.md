@@ -1,5 +1,5 @@
 # Authentication-System
-# Flask based minimal app
+### Flask based minimal app
 
 ## Step 1:
 ### Go to your IDE(like VS-Code) terminal than install Flask-
